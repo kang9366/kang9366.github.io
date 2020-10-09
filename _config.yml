@@ -1,7 +1,7 @@
 # Site
 title:              Kang SeungGu
-bio:                'Studying statistics and programming'
-description:        "I'm a college student majoring statistics and computer science"
+bio:                'Tech Blog\nstatistics & programming'
+description:        "I'm studying statistics and computer science"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
