@@ -1,5 +1,6 @@
 # post basic form
 
+"""
 ---  
 layout: post  
 title: ""  
@@ -8,3 +9,4 @@ excerpt: ""
 tags: []  
 comments: true  
 ---  
+"""
