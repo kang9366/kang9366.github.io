@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "R apply, sapply, vapply, lapply"
-date: 2012-05-22
-excerpt: "est readability."
-tags: [선형대수, readability, test]
+title: "R 함수 정리"
+date: 2020-11-17
+excerpt: "r functions"
+tags: [R, function]
 category: [R]
 comments: true
 ---
